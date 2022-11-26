@@ -1,98 +1,63 @@
-import { useState } from 'react'
-import './reset.css'
-import './style.css'
+import { useEffect, useState } from 'react'
 
-const questions = [
-  [{ name: 'Tranquility Base Hotel & Casino', score: 8.1 }, { name: 'The New Abnormal', score: 5.7 }],
-  [{ name: 'My Beautiful Dark Twisted Fantasy', score: 10 }, { name: 'The Life of Pablo', score: 9 }]
-]
+import Alternatives from './components/Alternatives';
 
-const getRandomIndex = () => Math.floor(Math.random() * questions.length);
+import getReviews from './services/reviews';
 
-const Option = ({ albumName, className, handleClick }) => {
-  return (
-    <div className={className} onClick={() => handleClick(albumName)}>
-      <span>{albumName}</span>
-    </div>
-  )
-}
+import './style.css';
 
-const Result = ({ guessState, nextQuestion }) => {
-  if (!guessState.isGuessed) {
-    return;
-  }
-
-  return (
-    <div style={{ margin: '1rem' }}>
-      <p>
-        You selected {guessState.selectedAlbum}. That answer is {guessState.isCorrect ? 'correct' : 'not correct'}.
-      </p>
-      <button onClick={nextQuestion}>Next question</button>
-    </div>
-  )
-
-  // <p style={{margin: '1rem'}}>Debug (is guessed): {isGuessed ? 'true' : 'false'}</p>
-}
-
-const Options = ({ question, setQuestionIndex }) => {
-  const [guessState, setGuessState] = useState({
-    isGuessed: false,
-    selectedAlbum: '',
-    isCorrect: false
-  })
-
-  const sortedOptions = question.sort((a, b) => b.score - a.score);
-  const correctAnswer = sortedOptions[0].name;
-
-  const handleClick = (album) => {
-    if (guessState.isGuessed) {
-      return;
-    }
-
-    setGuessState({
-      isGuessed: true,
-      selectedAlbum: album,
-      isCorrect: album === correctAnswer
-    });
-  }
-
-  const handleNextQuestion = () => {
-    setQuestionIndex(getRandomIndex());
-    setGuessState({
-      isGuessed: false,
-      selectedAlbum: '',
-      isCorrect: false
-    });
-  }
-
-  return (
-    <>
-      <div className="alternatives">
-        <Option
-          albumName={question[0].name}
-          className="alternative red"
-          handleClick={handleClick}
-        />
-        <Option
-          albumName={question[1].name}
-          className="alternative blue"
-          handleClick={handleClick}
-        />
-      </div>
-      <Result guessState={guessState} nextQuestion={handleNextQuestion} />
-    </>
-  )
-}
 
 const App = () => {
-  const [questionIndex, setQuestionIndex] = useState(getRandomIndex());
+  const [question, setQuestion] = useState([]);
+  const [isCorrect, setIsCorrect] = useState(false);
+  const [isAnswered, setIsAnswered] = useState(false);
+  const [selectedAnswer, setSelectedAnswer] = useState('');
+
+  const getNewQuestion = () => {
+    getReviews().then((data) => { setQuestion(data); })
+  }
+
+  const handleNext = () => {
+    setSelectedAnswer('');
+    setIsAnswered(false);
+    setQuestion([]);
+    getNewQuestion();
+  }
+
+  const handleClick = (albumName) => {
+    if (isAnswered) {
+      return;
+    }
+    
+    setIsAnswered(true);
+    setSelectedAnswer(albumName);
+
+    // Which answer is correct?
+    const maxScore = Math.max(...question.map(q => q.score));
+    const correctAnswer = question.find(q => q.score === maxScore);
+    setIsCorrect(correctAnswer.album === albumName);
+  }
+
+  useEffect(() => {
+    getNewQuestion()
+  }, [])
 
   return (
-    <div className="App">
-      <h1 className='h1' style={{ margin: '1rem' }}>Can you guess Pitchfork's favorite album?</h1>
-      <Options question={questions[questionIndex]} setQuestionIndex={setQuestionIndex} />
+    <div>
+      <h1>Can you guess Pitchfork's favorite album?</h1>
+      <Alternatives
+        // State variables
+        question={question}
+        isAnswered={isAnswered}
+        isCorrect={isCorrect}
+        selectedAnswer={selectedAnswer}
+
+        // Event handlers
+        handleNext={handleNext}
+        handleClick={handleClick}
+        />
     </div>
-  );
+  )
 }
 
 export default App;
