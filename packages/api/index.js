@@ -5,6 +5,7 @@ const app = express();
 
 // Middleware
 app.use(cors());
+app.use('/media', express.static('assets/covers'));
 
 // Import data
 const reviews = require('./data.json');
@@ -24,6 +25,12 @@ app.get('/api/reviews', (req, res) => {
   } while (optionA.score === optionB.score);
 
   res.json([optionA, optionB]);
+})
+
+app.get('/api/cover/:id', (req, res) => {
+  const id = Number(req.params.id);
+  if (!id) { res.status(404).end(); return; };
+  res.redirect(`/media/${id}.jpg`);
 })
 
 
