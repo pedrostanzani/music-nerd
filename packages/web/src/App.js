@@ -4,6 +4,7 @@ import Alternatives from './components/Alternatives';
 
 import getReviews from './services/reviews';
 
+import './reset.css';
 import './style.css';
 
 
@@ -43,8 +44,10 @@ const App = () => {
   }, [])
 
   return (
-    <div>
-      <h1>Can you guess Pitchfork's favorite album?</h1>
+    <div className='container'>
+      <div className='app-heading'>
+        <h1>Can you guess Pitchfork's favorite album? 🤘</h1>
+      </div>
       <Alternatives
         // State variables
         question={question}

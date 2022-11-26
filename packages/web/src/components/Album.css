@@ -1,0 +1,48 @@
+.album-card {
+  color: #F7F7F7;
+  border-radius: 0.5rem;
+  overflow: hidden;
+
+  flex: 1 1 0px;
+  min-width: 380px;
+
+  background: rgb(42,42,42);
+  background: linear-gradient(90deg, rgba(42,42,42,1) 0%, rgba(91,91,91,1) 100%);
+  background-size: 300% 100%;
+  moz-transition: all .4s ease-in-out;
+  -o-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+
+}
+
+.album-card:hover {
+  background-position: 100% 0;
+  moz-transition: all .4s ease-in-out;
+  -o-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+  cursor: pointer;
+}
+
+.album-cover {
+  width: 9rem;
+  opacity: 0.8;
+}
+
+.album-info {
+  justify-content: center;
+  margin: 0 0.625rem;
+}
+
+.album-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+
+  margin-bottom: 0.5rem;
+}
+
+.album-artist {
+  font-size: 1rem;
+  font-weight: 400;
+}

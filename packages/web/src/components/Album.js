@@ -1,9 +1,15 @@
-const Album = ({ name, artist, onClick }) => {
-  const style = {backgroundColor: '#598296', marginBottom: '8px', height: '32px'}
+import './Album.css';
 
+import AlbumCover from './../assets/TBHC.jpg';
+
+const Album = ({ name, artist, onClick }) => {
   return (
-    <div style={style} onClick={() => onClick(name)}>
-      <span>{name} by {artist}</span>
+    <div onClick={() => onClick(name)} className='album-card row'>
+      <img className='album-cover' src={AlbumCover} alt="Cover of a rock album." />
+      <div className='album-info column'>
+        <h3 className='album-title'>{name}</h3>
+        <h4 className='album-artist'>{artist}</h4>
+      </div>
     </div>
   )
 }
