@@ -11,8 +11,8 @@ const Alternatives = ({ question, isAnswered, isCorrect, selectedAnswer, handleN
   return (
     <>
       <div className='row alternatives'>
-        <Album name={question[0].album} artist={question[0].artist} onClick={handleClick} />
-        <Album name={question[1].album} artist={question[1].artist} onClick={handleClick} />
+        <Album name={question[0].album} artist={question[0].artist} id={question[0].id} onClick={handleClick} />
+        <Album name={question[1].album} artist={question[1].artist} id={question[1].id} onClick={handleClick} />
       </div>
       <Feedback 
         question={question}
