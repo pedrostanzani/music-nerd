@@ -2,7 +2,7 @@
   {
     "album": "The Car",
     "artist": "Arctic Monkeys",
-    "score": "8.0",
+    "score": 8,
     "url": "https://pitchfork.com/reviews/albums/arctic-monkeys-the-car/",
     "coverUrl": "https://media.pitchfork.com/photos/63061cdbc3194266963384da/1:1/w_450%2Cc_limit/Arctic-Monkeys-The-Car.jpg",
     "id": 1
@@ -10,7 +10,7 @@
   {
     "album": "Tranquility Base Hotel & Casino",
     "artist": "Arctic Monkeys",
-    "score": "8.1",
+    "score": 8.1,
     "url": "https://pitchfork.com/reviews/albums/arctic-monkeys-tranquility-base-hotel-and-casino/",
     "coverUrl": "https://media.pitchfork.com/photos/6349cba2a7846fb4be7fe018/1:1/w_450%2Cc_limit/Arctic-Monkeys.jpg",
     "id": 2
@@ -18,7 +18,7 @@
   {
     "album": "AM",
     "artist": "Arctic Monkeys",
-    "score": "8.0",
+    "score": 8,
     "url": "https://pitchfork.com/reviews/albums/18386-arctic-monkeys-am/",
     "coverUrl": "https://media.pitchfork.com/photos/6349c7e5ef7182cf16ec7f1e/1:1/w_450%2Cc_limit/Arctic-Monkeys-AM.jpg",
     "id": 3
@@ -26,7 +26,7 @@
   {
     "album": "Suck It and See",
     "artist": "Arctic Monkeys",
-    "score": "7.5",
+    "score": 7.5,
     "url": "https://pitchfork.com/reviews/albums/15450-suck-it-and-see/",
     "coverUrl": "https://media.pitchfork.com/photos/6349c115b8ef72483b8e8de5/1:1/w_450%2Cc_limit/Arctic-Monkeys-Suck-It-and-See.jpg",
     "id": 4
@@ -34,7 +34,7 @@
   {
     "album": "Humbug",
     "artist": "Arctic Monkeys",
-    "score": "7.2",
+    "score": 7.2,
     "url": "https://pitchfork.com/reviews/albums/13374-humbug/",
     "coverUrl": "https://media.pitchfork.com/photos/6349be684692fef75710838b/1:1/w_450%2Cc_limit/Arctic-Monkeys-Humbug.jpg",
     "id": 5
@@ -42,7 +42,7 @@
   {
     "album": "Favourite Worst Nightmare",
     "artist": "Arctic Monkeys",
-    "score": "7.4",
+    "score": 7.4,
     "url": "https://pitchfork.com/reviews/albums/10150-favourite-worst-nightmare/",
     "coverUrl": "https://media.pitchfork.com/photos/6349b7eeb7e3a871e9da506b/1:1/w_450%2Cc_limit/Arctic-Monkeys-Favourite-Worst-Nightmare.jpg",
     "id": 6
@@ -50,7 +50,7 @@
   {
     "album": "Whatever People Say I Am, That\\u2019s What I\\u2019m Not",
     "artist": "Arctic Monkeys",
-    "score": "7.4",
+    "score": 7.4,
     "url": "https://pitchfork.com/reviews/albums/497-whatever-people-say-i-am-thats-what-im-not/",
     "coverUrl": "https://media.pitchfork.com/photos/6349b19456c957ba1358f711/1:1/w_450%2Cc_limit/Arctic-Monkeys-Whatever-People-Say-I-Am-Thats-What-Im-Not.jpg",
     "id": 7
@@ -58,7 +58,7 @@
   {
     "album": "Ants From Up There",
     "artist": "Black Country, New Road",
-    "score": "8.4",
+    "score": 8.4,
     "url": "https://pitchfork.com/reviews/albums/black-country-new-road-ants-from-up-there/",
     "coverUrl": "https://media.pitchfork.com/photos/61649694110e7cd222907396/1:1/w_450%2Cc_limit/Black-Country-New-Road.jpg",
     "id": 8
@@ -66,7 +66,7 @@
   {
     "album": "22, A Million",
     "artist": "Bon Iver",
-    "score": "9.0",
+    "score": 9,
     "url": "https://pitchfork.com/reviews/albums/22420-22-a-million/",
     "coverUrl": "https://media.pitchfork.com/photos/5929bdbbea9e61561daa777d/1:1/w_450%2Cc_limit/985e010a.jpg",
     "id": 9
@@ -74,7 +74,7 @@
   {
     "album": "An Evening With Silk Sonic",
     "artist": "Bruno Mars",
-    "score": "6.4",
+    "score": 6.4,
     "url": "https://pitchfork.com/reviews/albums/silk-sonic-an-evening-with-silk-sonic/",
     "coverUrl": "https://media.pitchfork.com/photos/618a3190a06d7bd133209ff8/1:1/w_450%2Cc_limit/100000x100000-999.jpeg",
     "id": 10
@@ -82,7 +82,7 @@
   {
     "album": "Crash",
     "artist": "Charli XCX",
-    "score": "8.0",
+    "score": 8,
     "url": "https://pitchfork.com/reviews/albums/charli-xcx-crash/",
     "coverUrl": "https://media.pitchfork.com/photos/6183f064ebc21d2eb6916d29/1:1/w_450%2Cc_limit/Charli-XCX-Crash.jpg",
     "id": 11
@@ -90,7 +90,7 @@
   {
     "album": "Charli",
     "artist": "Charli XCX",
-    "score": "7.8",
+    "score": 7.8,
     "url": "https://pitchfork.com/reviews/albums/charli-xcx-charli/",
     "coverUrl": "https://media.pitchfork.com/photos/5d02570cb6e2e39814c9d294/1:1/w_450%2Cc_limit/Charli-XCX.jpg",
     "id": 12
@@ -98,7 +98,7 @@
   {
     "album": "\\u201cAwaken, My Love!\\u201d",
     "artist": "Childish Gambino",
-    "score": "7.2",
+    "score": 7.2,
     "url": "https://pitchfork.com/reviews/albums/22671-awaken-my-love/",
     "coverUrl": "https://media.pitchfork.com/photos/5929bfdcc0084474cd0c30d7/1:1/w_450%2Cc_limit/33796b07.jpg",
     "id": 13
@@ -106,7 +106,7 @@
   {
     "album": "Random Access Memories",
     "artist": "Daft Punk",
-    "score": "8.8",
+    "score": 8.8,
     "url": "https://pitchfork.com/reviews/albums/18028-daft-punk-random-access-memories/",
     "coverUrl": "https://media.pitchfork.com/photos/5929a0d59d034d5c69bf27fd/1:1/w_450%2Cc_limit/5d2966f4.jpg",
     "id": 14
@@ -114,7 +114,7 @@
   {
     "album": "The Money Store",
     "artist": "Death Grips",
-    "score": "8.7",
+    "score": 8.7,
     "url": "https://pitchfork.com/reviews/albums/16512-death-grips-the-money-store/",
     "coverUrl": "https://media.pitchfork.com/photos/5929b4adb1335d7bf169a7a8/1:1/w_450%2Cc_limit/566c99ce.jpeg",
     "id": 15
@@ -122,7 +122,7 @@
   {
     "album": "Take Care",
     "artist": "Drake",
-    "score": "8.6",
+    "score": 8.6,
     "url": "https://pitchfork.com/reviews/albums/16039-take-care/",
     "coverUrl": "https://media.pitchfork.com/photos/5929b22f13d197565213a719/1:1/w_450%2Cc_limit/67ce3bba.jpg",
     "id": 16
@@ -130,7 +130,7 @@
   {
     "album": "Melt My Eyez See Your Future",
     "artist": "Denzel Curry",
-    "score": "7.3",
+    "score": 7.3,
     "url": "https://pitchfork.com/reviews/albums/denzel-curry-melt-my-eyez-see-your-future/",
     "coverUrl": "https://media.pitchfork.com/photos/6233d9eef7366b1f4b7b2a61/1:1/w_450%2Cc_limit/mme_standard_packshot.jpg",
     "id": 17
@@ -138,7 +138,7 @@
   {
     "album": "The Eminem Show",
     "artist": "Eminem",
-    "score": "9.1",
+    "score": 9.1,
     "url": "https://pitchfork.com/reviews/albums/2771-the-eminem-show/",
     "coverUrl": "https://media.pitchfork.com/photos/5929bc5fea9e61561daa746c/1:1/w_450%2Cc_limit/c807ce31.jpg",
     "id": 18
@@ -146,7 +146,7 @@
   {
     "album": "Pure Comedy",
     "artist": "Father John Misty",
-    "score": "7.6",
+    "score": 7.6,
     "url": "https://pitchfork.com/reviews/albums/23013-pure-comedy/",
     "coverUrl": "https://media.pitchfork.com/photos/5929c216c0084474cd0c3404/1:1/w_450%2Cc_limit/a970e645.jpg",
     "id": 19
@@ -154,7 +154,7 @@
   {
     "album": "Donda",
     "artist": "Kanye West",
-    "score": "6.0",
+    "score": 6,
     "url": "https://pitchfork.com/reviews/albums/kanye-west-donda/",
     "coverUrl": "https://media.pitchfork.com/photos/612d1c25862caf19adae9922/1:1/w_450%2Cc_limit/Kanye-West-Donda.jpeg",
     "id": 20
@@ -162,7 +162,7 @@
   {
     "album": "Jesus Is King",
     "artist": "Kanye West",
-    "score": "7.2",
+    "score": 7.2,
     "url": "https://pitchfork.com/reviews/albums/kanye-west-jesus-is-king/",
     "coverUrl": "https://media.pitchfork.com/photos/5db73da8fd8a1f0009ad5c80/1:1/w_450%2Cc_limit/jesusisking_kanye.jpg",
     "id": 21
@@ -170,7 +170,7 @@
   {
     "album": "ye",
     "artist": "Kanye West",
-    "score": "7.1",
+    "score": 7.1,
     "url": "https://pitchfork.com/reviews/albums/kanye-west-ye/",
     "coverUrl": "https://media.pitchfork.com/photos/5b1160a8d8c21c49d0ae4eef/1:1/w_450%2Cc_limit/Kanye%2520Ye.png",
     "id": 22
@@ -178,7 +178,7 @@
   {
     "album": "The Life of Pablo",
     "artist": "Kanye West",
-    "score": "9.0",
+    "score": 9,
     "url": "https://pitchfork.com/reviews/albums/21542-the-life-of-pablo/",
     "coverUrl": "https://media.pitchfork.com/photos/5929b3995e6ef9596932249e/1:1/w_450%2Cc_limit/1192269b.jpg",
     "id": 23
@@ -186,7 +186,7 @@
   {
     "album": "Yeezus",
     "artist": "Kanye West",
-    "score": "9.5",
+    "score": 9.5,
     "url": "https://pitchfork.com/reviews/albums/18172-kanye-west-yeezus/",
     "coverUrl": "https://media.pitchfork.com/photos/5929a1899d034d5c69bf29ab/1:1/w_450%2Cc_limit/a2fb43da.jpg",
     "id": 24
@@ -194,7 +194,7 @@
   {
     "album": "808s and Heartbreak",
     "artist": "Kanye West",
-    "score": "7.6",
+    "score": 7.6,
     "url": "https://pitchfork.com/reviews/albums/12498-808s-and-heartbreak/",
     "coverUrl": "https://media.pitchfork.com/photos/5929be3b5e6ef95969323200/1:1/w_450%2Cc_limit/752c4b7b.jpg",
     "id": 25
@@ -202,7 +202,7 @@
   {
     "album": "My Beautiful Dark Twisted Fantasy",
     "artist": "Kanye West",
-    "score": "10",
+    "score": 10,
     "url": "https://pitchfork.com/reviews/albums/14880-my-beautiful-dark-twisted-fantasy/",
     "coverUrl": "https://media.pitchfork.com/photos/5929ac7fc0084474cd0c1583/1:1/w_450%2Cc_limit/831179e9.jpeg",
     "id": 26
@@ -210,7 +210,7 @@
   {
     "album": "Graduation",
     "artist": "Kanye West",
-    "score": "8.7",
+    "score": 8.7,
     "url": "https://pitchfork.com/reviews/albums/10658-graduation/",
     "coverUrl": "https://media.pitchfork.com/photos/5929b270ea9e61561daa690f/1:1/w_450%2Cc_limit/b0b4aa4c.jpg",
     "id": 27
@@ -218,7 +218,7 @@
   {
     "album": "Late Registration",
     "artist": "Kanye West",
-    "score": "9.5",
+    "score": 9.5,
     "url": "https://pitchfork.com/reviews/albums/8768-late-registration/",
     "coverUrl": "https://media.pitchfork.com/photos/5929aa8db1335d7bf16996b1/1:1/w_450%2Cc_limit/fab12909.jpg",
     "id": 28
@@ -226,7 +226,7 @@
   {
     "album": "The College Dropout",
     "artist": "Kanye West",
-    "score": "8.2",
+    "score": 8.2,
     "url": "https://pitchfork.com/reviews/albums/8767-the-college-dropout/",
     "coverUrl": "https://media.pitchfork.com/photos/5929aa8c5e6ef959693215e8/1:1/w_450%2Cc_limit/7b1099ec.jpg",
     "id": 29
@@ -234,7 +234,7 @@
   {
     "album": "Mr. Morale & The Big Steppers",
     "artist": "Kendrick Lamar",
-    "score": "7.6",
+    "score": 7.6,
     "url": "https://pitchfork.com/reviews/albums/kendrick-lamar-mr-morale-and-the-big-steppers/",
     "coverUrl": "https://media.pitchfork.com/photos/627c1023d3c744a67a846260/1:1/w_450%2Cc_limit/Kendrick-Lamar-Mr-Morale-And-The-Big-Steppers.jpg",
     "id": 30
@@ -242,7 +242,7 @@
   {
     "album": "DAMN.",
     "artist": "Kendrick Lamar",
-    "score": "9.2",
+    "score": 9.2,
     "url": "https://pitchfork.com/reviews/albums/23147-damn/",
     "coverUrl": "https://media.pitchfork.com/photos/5929c3e8eb335119a49ed80f/1:1/w_450%2Cc_limit/31d2b6fd.jpg",
     "id": 31
@@ -250,7 +250,7 @@
   {
     "album": "good kid, m.A.A.d city",
     "artist": "Kendrick Lamar",
-    "score": "9.5",
+    "score": 9.5,
     "url": "https://pitchfork.com/reviews/albums/17253-good-kid-maad-city/",
     "coverUrl": "https://media.pitchfork.com/photos/5929c04fea9e61561daa7bc5/1:1/w_450%2Cc_limit/25b1edda.jpg",
     "id": 32
@@ -258,7 +258,7 @@
   {
     "album": "To Pimp a Butterfly",
     "artist": "Kendrick Lamar",
-    "score": "9.3",
+    "score": 9.3,
     "url": "https://pitchfork.com/reviews/albums/20390-to-pimp-a-butterfly/",
     "coverUrl": "https://media.pitchfork.com/photos/5929ad4cea9e61561daa60ba/1:1/w_450%2Cc_limit/d47a5880.jpg",
     "id": 33
@@ -266,7 +266,7 @@
   {
     "album": "Kid A",
     "artist": "Radiohead",
-    "score": "10",
+    "score": 10,
     "url": "https://pitchfork.com/reviews/albums/6656-kid-a/",
     "coverUrl": "https://media.pitchfork.com/photos/5929a1ebb1335d7bf1698393/1:1/w_450%2Cc_limit/dddaf5bb.jpg",
     "id": 34
@@ -274,7 +274,7 @@
   {
     "album": "In Rainbows",
     "artist": "Radiohead",
-    "score": "9.3",
+    "score": 9.3,
     "url": "https://pitchfork.com/reviews/albums/10785-in-rainbows/",
     "coverUrl": "https://media.pitchfork.com/photos/5929b2fe9d034d5c69bf4c59/1:1/w_450%2Cc_limit/7055fb4d.jpg",
     "id": 35
@@ -282,7 +282,7 @@
   {
     "album": "The King of Limbs",
     "artist": "Radiohead",
-    "score": "7.9",
+    "score": 7.9,
     "url": "https://pitchfork.com/reviews/albums/15149-the-king-of-limbs/",
     "coverUrl": "https://media.pitchfork.com/photos/5929add1c0084474cd0c17bd/1:1/w_450%2Cc_limit/cb883af7.jpg",
     "id": 36
@@ -290,7 +290,7 @@
   {
     "album": "A Moon Shaped Pool",
     "artist": "Radiohead",
-    "score": "9.1",
+    "score": 9.1,
     "url": "https://pitchfork.com/reviews/albums/21907-a-moon-shaped-pool/",
     "coverUrl": "https://media.pitchfork.com/photos/5929b5b913d197565213ace4/1:1/w_450%2Cc_limit/e3c43867.jpg",
     "id": 37
@@ -298,7 +298,7 @@
   {
     "album": "Man on the Moon III: The Chosen",
     "artist": "Kid Cudi",
-    "score": "4.9",
+    "score": 4.9,
     "url": "https://pitchfork.com/reviews/albums/kid-cudi-man-on-the-moon-iii-the-chosen/",
     "coverUrl": "https://media.pitchfork.com/photos/5fd1137268b85efd391b5a45/1:1/w_450%2Cc_limit/Kid-Cudi.jpg",
     "id": 38
@@ -306,7 +306,7 @@
   {
     "album": "Man on the Moon II: The Legend of Mr. Rager",
     "artist": "Kid Cudi",
-    "score": "6.7",
+    "score": 6.7,
     "url": "https://pitchfork.com/reviews/albums/14875-man-on-the-moon-ii-the-legend-of-mr-rager/",
     "coverUrl": "https://media.pitchfork.com/photos/5929aca1b1335d7bf1699a65/1:1/w_450%2Cc_limit/2df26ab2.jpg",
     "id": 39
@@ -314,7 +314,7 @@
   {
     "album": "Man on the Moon: The End of Day",
     "artist": "Kid Cudi",
-    "score": "4.1",
+    "score": 4.1,
     "url": "https://pitchfork.com/reviews/albums/13504-man-on-the-moon-the-end-of-day/",
     "coverUrl": "https://media.pitchfork.com/photos/5929a64eb1335d7bf1698dcc/1:1/w_450%2Cc_limit/224b0b26.jpg",
     "id": 40
@@ -322,7 +322,7 @@
   {
     "album": "Call Me If You Get Lost",
     "artist": "Tyler, the Creator",
-    "score": "8.4",
+    "score": 8.4,
     "url": "https://pitchfork.com/reviews/albums/tyler-the-creator-call-me-if-you-get-lost/",
     "coverUrl": "https://media.pitchfork.com/photos/60cb72ddadc2201193add729/1:1/w_450%2Cc_limit/Tyler-the-Creator.jpg",
     "id": 41
@@ -330,7 +330,7 @@
   {
     "album": "IGOR",
     "artist": "Tyler, the Creator",
-    "score": "8.0",
+    "score": 8,
     "url": "https://pitchfork.com/reviews/albums/tyler-the-creator-igor/",
     "coverUrl": "https://media.pitchfork.com/photos/5cd9738d85a35dd7f0e63d6f/1:1/w_450%2Cc_limit/Tyler-the-Creator-IGOR.jpeg",
     "id": 42
@@ -338,7 +338,7 @@
   {
     "album": "Flower Boy",
     "artist": "Tyler, the Creator",
-    "score": "8.5",
+    "score": 8.5,
     "url": "https://pitchfork.com/reviews/albums/tyler-the-creator-flower-boy/",
     "coverUrl": "https://media.pitchfork.com/photos/59663e05ec814a1a5898c3a3/1:1/w_450%2Cc_limit/tyler-the-creator-flower-boy-cover-1.jpg",
     "id": 43
@@ -346,7 +346,7 @@
   {
     "album": "Circles",
     "artist": "Mac Miller",
-    "score": "7.4",
+    "score": 7.4,
     "url": "https://pitchfork.com/reviews/albums/mac-miller-circles/",
     "coverUrl": "https://media.pitchfork.com/photos/5e1cf1ac3c7695000833803c/1:1/w_450%2Cc_limit/circles.jpeg",
     "id": 44
@@ -354,7 +354,7 @@
   {
     "album": "Swimming",
     "artist": "Mac Miller",
-    "score": "7.5",
+    "score": 7.5,
     "url": "https://pitchfork.com/reviews/albums/mac-miller-swimming/",
     "coverUrl": "https://media.pitchfork.com/photos/5b4e36a4dc6c142e533571c8/1:1/w_450%2Cc_limit/Mac%2520Miller_Swimming.jpg",
     "id": 45
@@ -362,7 +362,7 @@
   {
     "album": "Faces",
     "artist": "Mac Miller",
-    "score": "7.3",
+    "score": 7.3,
     "url": "https://pitchfork.com/reviews/albums/19390-mac-miller-faces/",
     "coverUrl": "https://media.pitchfork.com/photos/5e21f772d7f8cd0008150e31/1:1/w_450%2Cc_limit/Mac-Miller-FACES.jpg",
     "id": 46
@@ -370,7 +370,7 @@
   {
     "album": "Channel Orange",
     "artist": "Frank Ocean",
-    "score": "9.5",
+    "score": 9.5,
     "url": "https://pitchfork.com/reviews/albums/16859-channel-orange/",
     "coverUrl": "https://media.pitchfork.com/photos/5929be57c0084474cd0c2e8c/1:1/w_450%2Cc_limit/45e3c196.jpeg",
     "id": 47
@@ -378,7 +378,7 @@
   {
     "album": "The Slow Rush",
     "artist": "Tame Impala",
-    "score": "8.0",
+    "score": 8,
     "url": "https://pitchfork.com/reviews/albums/tame-impala-the-slow-rush/",
     "coverUrl": "https://media.pitchfork.com/photos/5e41992daf0b890008c98164/1:1/w_450%2Cc_limit/The%2520Slow%2520Rush_Tame%2520Impala.jpg",
     "id": 48
@@ -386,7 +386,7 @@
   {
     "album": "Currents",
     "artist": "Tame Impala",
-    "score": "9.3",
+    "score": 9.3,
     "url": "https://pitchfork.com/reviews/albums/20578-currents/",
     "coverUrl": "https://media.pitchfork.com/photos/5929ae46c0084474cd0c188c/1:1/w_450%2Cc_limit/04192b63.jpg",
     "id": 49
@@ -394,7 +394,7 @@
   {
     "album": "Plastic Beach",
     "artist": "Gorillaz",
-    "score": "8.5",
+    "score": 8.5,
     "url": "https://pitchfork.com/reviews/albums/14008-plastic-beach/",
     "coverUrl": "https://media.pitchfork.com/photos/5929a89f9d034d5c69bf3ac0/1:1/w_450%2Cc_limit/843000ca.jpg",
     "id": 50
@@ -402,7 +402,7 @@
   {
     "album": "Demon Days",
     "artist": "Gorillaz",
-    "score": "6.9",
+    "score": 6.9,
     "url": "https://pitchfork.com/reviews/albums/3526-demon-days/",
     "coverUrl": "https://media.pitchfork.com/photos/5929bf76ea9e61561daa7a78/1:1/w_450%2Cc_limit/d7bf85be.jpg",
     "id": 51
@@ -410,7 +410,7 @@
   {
     "album": "After Hours",
     "artist": "The Weeknd",
-    "score": "7.9",
+    "score": 7.9,
     "url": "https://pitchfork.com/reviews/albums/the-weeknd-after-hours/",
     "coverUrl": "https://media.pitchfork.com/photos/5e6fcda64b101700083a93ce/1:1/w_450%2Cc_limit/After%2520Hours_The%2520Weeknd.jpg",
     "id": 52
@@ -418,7 +418,7 @@
   {
     "album": "Starboy",
     "artist": "The Weeknd",
-    "score": "6.7",
+    "score": 6.7,
     "url": "https://pitchfork.com/reviews/albums/22668-starboy/",
     "coverUrl": "https://media.pitchfork.com/photos/5929bfd8eb335119a49ed2bd/1:1/w_450%2Cc_limit/f5d300ff.jpg",
     "id": 53
@@ -426,7 +426,7 @@
   {
     "album": "Beauty Behind the Madness",
     "artist": "The Weeknd",
-    "score": "7.2",
+    "score": 7.2,
     "url": "https://pitchfork.com/reviews/albums/20999-beauty-behind-the-madness/",
     "coverUrl": "https://media.pitchfork.com/photos/5929b065b1335d7bf169a0f0/1:1/w_450%2Cc_limit/99bf5594.jpg",
     "id": 54
@@ -434,7 +434,7 @@
   {
     "album": "House of Balloons",
     "artist": "The Weeknd",
-    "score": "8.5",
+    "score": 8.5,
     "url": "https://pitchfork.com/reviews/albums/15264-house-of-balloons/",
     "coverUrl": "https://media.pitchfork.com/photos/5929ae575e6ef95969321c2d/1:1/w_450%2Cc_limit/59e88335.jpg",
     "id": 55
@@ -442,7 +442,7 @@
   {
     "album": "Astroworld",
     "artist": "Travis Scott",
-    "score": "7.8",
+    "score": 7.8,
     "url": "https://pitchfork.com/reviews/albums/travis-scott-astroworld/",
     "coverUrl": "https://media.pitchfork.com/photos/5b60c32dc50e6c2e339b99fe/1:1/w_450%2Cc_limit/Travis%2520Scott_Astroworld.jpg",
     "id": 56
@@ -450,7 +450,7 @@
   {
     "album": "Rodeo",
     "artist": "Travis Scott",
-    "score": "6.0",
+    "score": 6,
     "url": "https://pitchfork.com/reviews/albums/21016-rodeo/",
     "coverUrl": "https://media.pitchfork.com/photos/5929b07ac0084474cd0c1c63/1:1/w_450%2Cc_limit/eae6dd69.jpg",
     "id": 57
@@ -458,7 +458,7 @@
   {
     "album": "Is This It",
     "artist": "The Strokes",
-    "score": "9.1",
+    "score": 9.1,
     "url": "https://pitchfork.com/reviews/albums/7537-is-this-it/",
     "coverUrl": "https://media.pitchfork.com/photos/5929a58b13d1975652138f9b/1:1/w_450%2Cc_limit/c1b895b7.jpg",
     "id": 58
@@ -466,7 +466,7 @@
   {
     "album": "The New Abnormal",
     "artist": "The Strokes",
-    "score": "5.7",
+    "score": 5.7,
     "url": "https://pitchfork.com/reviews/albums/the-strokes-the-new-abnormal/",
     "coverUrl": "https://media.pitchfork.com/photos/5e8ca8479a08f300084d48d7/1:1/w_450%2Cc_limit/The%2520New%2520Abnormal_The%2520Strokes.jpg",
     "id": 59
@@ -474,7 +474,7 @@
   {
     "album": "Blonde",
     "artist": "Frank Ocean",
-    "score": "9.0",
+    "score": 9,
     "url": "https://pitchfork.com/reviews/albums/22295-blonde-endless/",
     "coverUrl": "https://media.pitchfork.com/photos/5929bcb55e6ef95969322eda/1:1/w_320/5f06f7f6.jpg",
     "id": 60
