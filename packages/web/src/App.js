@@ -29,7 +29,7 @@ const App = () => {
     if (isAnswered) {
       return;
     }
-    
+
     setIsAnswered(true);
     setSelectedAnswer(albumName);
 
@@ -44,21 +44,23 @@ const App = () => {
   }, [])
 
   return (
-    <div className='container'>
-      <div className='app-heading'>
-        <h1>Can you guess Pitchfork's favorite album? 🤘</h1>
-      </div>
-      <Alternatives
-        // State variables
-        question={question}
-        isAnswered={isAnswered}
-        isCorrect={isCorrect}
-        selectedAnswer={selectedAnswer}
+    <div className="wrapper">
+      <div className='container'>
+        <div className='app-heading'>
+          <h1>Can you guess Pitchfork's favorite album? 🤘</h1>
+        </div>
+        <Alternatives
+          // State variables
+          question={question}
+          isAnswered={isAnswered}
+          isCorrect={isCorrect}
+          selectedAnswer={selectedAnswer}
 
-        // Event handlers
-        handleNext={handleNext}
-        handleClick={handleClick}
+          // Event handlers
+          handleNext={handleNext}
+          handleClick={handleClick}
         />
+      </div>
     </div>
   )
 }

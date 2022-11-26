@@ -1,14 +1,11 @@
+.feedback {
+  width: 100%;
+  margin-top: 2rem;
+}
+
 .feedback-heading {
   font-size: 2rem;
   font-weight: 700;
-}
-
-.correct {
-  color: #00A86B;
-}
-
-.incorrect {
-  color: #FDA50F;
 }
 
 .feedback-descritpion {
@@ -21,11 +18,6 @@
   font-weight: 600;
 }
 
-.feedback {
-  width: 100%;
-  margin-top: 2rem;
-}
-
 .next-question {
   border: none;
   color: inherit;
@@ -34,7 +26,7 @@
   font-size: 1.25rem;
   font-weight: 500;
 
-  border-radius: 1.5rem;
+  border-radius: 1.25rem;
 
   font-family: inherit;
   width: 12rem;
@@ -45,18 +37,10 @@
   cursor: pointer;
 }
 
-.next-question.incorrect {
-  background: #FDA50F;
-}
+.correct   { color: #29c98e; }
+.incorrect { color: #FDA50F; }
+.bg-correct   { background-color: #29c98e; }
+.bg-incorrect { background-color: #FDA50F; }
 
-.next-question.correct {
-  background: #00A86B;
-}
-
-.next-question.incorrect:hover {
-  background: #ffba42;
-}
-
-.next-question.correct:hover {
-  background: #00bd78;
-}
+.bg-correct:hover   { background-color: #36da9e; }
+.bg-incorrect:hover { background-color: #f7b23b; }

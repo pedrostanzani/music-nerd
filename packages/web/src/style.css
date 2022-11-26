@@ -35,7 +35,12 @@ body {
   padding: 2rem 0;
 }
 
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
 .container {
-  width: 80%;
-  margin:auto;
+  width: 85%;
 }
