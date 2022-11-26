@@ -3,8 +3,6 @@ const Feedback = ({ question, isAnswered, isCorrect, selectedAnswer, handleNext 
     return;
   }
 
-  console.log(question);
-
   return (
     <div>
       <p>You selected {selectedAnswer}. That answer { isCorrect ? 'is correct' : 'is not correct' }.</p>
